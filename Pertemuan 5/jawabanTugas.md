@@ -5,9 +5,9 @@ a. 1. perbedaan container dan container-fluid
     *container
     ![Container](https://github.com/dimascapella/webFramework/blob/master/Pertemuan%205/src/Image/container.png)
     *container-fluid
-    ![Container-fluid](https://github.com/dimascapella/webFramework/blob/master/Pertemuan%205/src/Image/container-fluid.png)
+    ![Container-fluid](https://github.com/dimascapella/webFramework/blob/master/Pertemuan%205/src/Image/container_fluid.png)
 
-    2. container-fluid, maka akan menggunakan max-width 100% meskipun ukuran browser dirubah, maka ukuran konten akan penuh 100% ukuran browser sedangkan container akan ada space di kanan kiri dan ketika ukuran browser dirubah, maka tampilan akan tetap sama seperti ukuran normal
+a. 2. container-fluid, maka akan menggunakan max-width 100% meskipun ukuran browser dirubah, maka ukuran konten akan penuh 100% ukuran browser sedangkan container akan ada space di kanan kiri dan ketika ukuran browser dirubah, maka tampilan akan tetap sama seperti ukuran normal
 
 b. untuk penggunakan framework CSS seperti boostrap, bulma, tailwind bisa menggunakan CDN atau bisa import dengan NPM, tetapi ketika ingin mengimport komponen react seperti react-router-dom maka harus import dengan NPM, cara import yaitu " NPM i 'nama module' "
 
