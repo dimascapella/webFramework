@@ -1,0 +1,31 @@
+{
+  "mahasiswa": [
+    {
+      "nim": "1741720101",
+      "nama": "Dimas Eka Adinandra",
+      "alamat": "Jln. Gunung Jati",
+      "hp": "081232066507",
+      "angkatan": "2017",
+      "status": "aktif",
+      "id": "1741720101"
+    },
+    {
+      "nim": "1741720102",
+      "nama": "Dimas",
+      "alamat": "Jln. Jati",
+      "hp": "123123",
+      "angkatan": "2018",
+      "status": "cuti",
+      "id": "1741720102"
+    },
+    {
+      "nim": "1741720105",
+      "nama": "tes",
+      "alamat": "tes",
+      "hp": "123123123",
+      "angkatan": "2017",
+      "status": "lulus",
+      "id": "1741720105"
+    }
+  ]
+}
